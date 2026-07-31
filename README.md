@@ -8,7 +8,6 @@ Proyecto para el desarrollo de una estación de trading orientada al análisis d
 - Análisis de mercados
 - Gestión de cartera
 - Backtesting de estrategias
-- Automatización de operaciones
 - Generación de informes y métricas
 
 ## Estado
